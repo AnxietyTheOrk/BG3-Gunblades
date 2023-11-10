@@ -17,7 +17,7 @@
 					<attribute id="MapKey" type="FixedString" value="7596027a-6643-4b70-86bb-c2700214d1c7" /> Same UUID as in Weapon.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="ATO_Gunblade_Longsword" /> Same as Stats
 					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" /> Points to WPN_Longsword_1 in Shared.PAK's RootTemplate
-					<attribute id="PhysicsTemplate" type="FixedString" value="64a51858-bc1fd499-fba8-f5232571d7c6" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
 					<attribute id="Race" type="int8" value="0" />
 					<attribute id="ReadinessFlags" type="uint32" value="144" />
 					<attribute id="Stats" type="FixedString" value="ATO_Gunblade_Longsword" /> Stats for the Weapon.txt
@@ -25,7 +25,7 @@
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" /> For weapons this determines the 3D model and texture used. So all visuals.
 					<attribute id="WalkThrough" type="bool" value="True" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>
 						<node id="Tags">
 							<children>
