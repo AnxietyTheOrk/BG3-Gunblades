@@ -8,7 +8,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h09dbcc1cgfbb8g4f84gb441g3aa03c2a165a" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="heaee7fa2ge93fg4f76gbb57gb2405c338ca1" version="1" /> Points to Localization xml file. Generate new handle
-					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-0faa-2ef57d983a3a" /> This determines the animations and how the weapon is held
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
