@@ -1,6 +1,7 @@
 new entry "_Gunblade"
 type "Weapon"
 using "_BaseWeapon"
+data "Slot" "Melee Main Weapon"
 data "Weapon Group" "MartialMeleeWeapon"
 
 new entry "ATO_Gunblade_Longsword"
@@ -16,4 +17,4 @@ data "VersatileDamage" "1d10"
 data "Weapon Group" "MartialMeleeWeapon"
 data "Weapon Properties" "Versatile;Melee;Dippable"
 data "Proficiency Group" "Longswords;MartialWeapons"
-data "PassivesOnEquip" "ATO_Ammo_Gunblade_Six_Passive"
+data "PassivesMainHand" "ATO_AmmoGunbladeSix_Passive"

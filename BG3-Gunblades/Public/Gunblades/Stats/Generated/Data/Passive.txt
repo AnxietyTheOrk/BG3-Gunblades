@@ -1,4 +1,4 @@
-new entry "ATO_Ammo_Gunblade_Six_Passive"
+new entry "ATO_AmmoGunbladeSix_Passive"
 type "PassiveData"
 data "DescriptionParams" ""
 data "Boosts" "ActionResource(Gunblade_Ammo,6,0)"
