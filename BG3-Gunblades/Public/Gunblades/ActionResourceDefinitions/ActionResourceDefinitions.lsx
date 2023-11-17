@@ -18,6 +18,20 @@
                     <attribute id="UUID" type="guid" value="f5b64452-4ac3-493a-a506-f245b6c1bb49"/>
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="Handle" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="Handle" version="1"/> 
+                    <attribute id="Error" type="TranslatedString" handle="396e7f0b-4001-4f30-bc8f-d917190776e9" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/> 
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="DiceType" type="uint32" value="0"/> 
+                    <attribute id="Name" type="FixedString" value="Gunblade_Offhand_Ammo"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="f5b64452-4ac3-493a-a506-f245b6c1bb49"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
+                </node>
             </children>
         </node>
     </region>

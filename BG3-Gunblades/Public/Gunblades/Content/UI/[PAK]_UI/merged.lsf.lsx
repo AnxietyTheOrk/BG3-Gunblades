@@ -5,11 +5,11 @@
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="5a8a93b3-0522-422c-a703-2a879a149a92" />
+					<attribute id="ID" type="FixedString" value="591a0f28-b60f-43a2-afa0-25d4973344e7" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Icons_Firearms" />
+					<attribute id="Name" type="LSString" value="Icons_Gunblades" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/Firearms/Assets/Textures/Icons/Icons_Firearms.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/Gunblades/Assets/Textures/Icons/Icons_Gunblades.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icons_Items" />
 					<attribute id="Type" type="int32" value="0" />

@@ -1,0 +1,11 @@
+new entry "ATO_Ammo_Gunblade_Six_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(Gunblade_Ammo,6,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_Offhand_Gunblade_Six_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(Gunblade_Offhand_Ammo,6,0)"
+data "Properties" "IsHidden"
