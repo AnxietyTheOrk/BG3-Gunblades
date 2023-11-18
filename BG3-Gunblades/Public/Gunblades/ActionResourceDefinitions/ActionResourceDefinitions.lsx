@@ -21,7 +21,7 @@
                 <node id="ActionResourceDefinition">
                     <attribute id="Description" type="TranslatedString" handle="h0803bdbbg07c7g4fccg916ag4a403927e4fd" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1587625dgca1cg4a04g8b5cgbe75a5c73797" version="1"/> 
-                    <attribute id="Error" type="TranslatedString" handle="396e7f0b-4001-4f30-bc8f-d917190776e9" version="1"/>
+                    <attribute id="Error" type="TranslatedString" handle="h5f6353f6gd9bag4ae1gbf50g469f3dc2da51" version="1"/>
                     <attribute id="IsSpellResource" type="bool" value="false"/> 
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="DiceType" type="uint32" value="0"/> 
@@ -29,7 +29,7 @@
                     <attribute id="PartyActionResource" type="bool" value="false"/>
                     <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
-                    <attribute id="UUID" type="guid" value="f5b64452-4ac3-493a-a506-f245b6c1bb49"/>
+                    <attribute id="UUID" type="guid" value="07f2e534-8d74-4f45-ade9-f65a97e80e75"/>
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
             </children>
