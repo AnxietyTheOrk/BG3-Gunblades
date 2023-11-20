@@ -1,0 +1,6 @@
+new entry "ATO_VorpalProc"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h8348be0dg8d3eg40d8g85e0gd10a51b97e73;1"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnApplyFunctors" "Kill()"

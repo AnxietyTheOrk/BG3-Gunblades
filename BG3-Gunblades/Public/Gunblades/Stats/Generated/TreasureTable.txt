@@ -2,3 +2,11 @@ new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
 object category "I_ATO_Gunblade_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Gunblade_Longsword_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Gunblade_Longsword_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Gunblade_Longsword_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Gunblade_Longsword_L",1,0,0,0,0,0,0,0

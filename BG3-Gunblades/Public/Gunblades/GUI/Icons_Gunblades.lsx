@@ -13,7 +13,7 @@
                     <attribute id="UUID" type="FixedString" value="591a0f28-b60f-43a2-afa0-25d4973344e7"/> 
                 </node>
                 <node id="TextureAtlasTextureSize">
-                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Height" type="int32" value="128"/>
                     <attribute id="Width" type="int32" value="64"/>
                 </node>
             </children>
@@ -23,12 +23,19 @@
         <node id="root">
             <children>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ATO_Gunblade_Longsword"/> 1
+                    <attribute id="MapKey" type="FixedString" value="ATO_Gunblade_Longsword_L"/> 1
                     <attribute id="U1" type="float" value="0"/>
                     <attribute id="U2" type="float" value="1"/>
                     <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value=".5"/> 
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="ATO_Gunblade_Longsword"/> 1
+                    <attribute id="U1" type="float" value=""/>
+                    <attribute id="U2" type="float" value="1"/>
+                    <attribute id="V1" type="float" value="0.5"/>
                     <attribute id="V2" type="float" value="1"/> 
-                </node>			
+                </node>				
             </children>
         </node>
     </region>

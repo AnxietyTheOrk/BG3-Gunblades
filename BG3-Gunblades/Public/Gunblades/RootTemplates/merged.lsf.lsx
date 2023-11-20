@@ -35,6 +35,134 @@
 							</children>
 						</node>
 					</children>
+				</node>
+				<node id="GameObjects"> Gunblade Longsword +1
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h09dbcc1cgfbb8g4f84gb441g3aa03c2a165a" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="heaee7fa2ge93fg4f76gbb57gb2405c338ca1" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="d14253f2-385b-4a8e-84d7-1fc3cbe0e907" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Gunblade_Longsword_1" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" /> Points to WPN_Longsword_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Gunblade_Longsword_1" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Gunblade Longsword +2
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h09dbcc1cgfbb8g4f84gb441g3aa03c2a165a" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="heaee7fa2ge93fg4f76gbb57gb2405c338ca1" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="255bbfaf-6a5c-46f9-8dae-facd14636ec5" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Gunblade_Longsword_2" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" /> Points to WPN_Longsword_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Gunblade_Longsword_2" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Gunblade Longsword +3
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h09dbcc1cgfbb8g4f84gb441g3aa03c2a165a" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="heaee7fa2ge93fg4f76gbb57gb2405c338ca1" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="00b771ff-af55-4034-ba33-3dc84f114bee" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Gunblade_Longsword_3" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" /> Points to WPN_Longsword_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Gunblade_Longsword_3" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+					<node id="GameObjects"> Gunblade Longsword Legendary
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h09dbcc1cgfbb8g4f84gb441g3aa03c2a165a" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="hfec84586geb93g49adg91f8g1e2992449d67" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword_L" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="e6eab7cc-3273-45e5-bc9d-55fcc4969846" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Gunblade_Longsword_L" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" /> Points to WPN_Longsword_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Gunblade_Longsword_L" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="bb79bb6b-b733-4d38-977b-2003b64ae017" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>	
 			</children>
 		</node>	
